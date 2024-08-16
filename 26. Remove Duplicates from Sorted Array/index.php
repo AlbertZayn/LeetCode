@@ -13,6 +13,6 @@ class Solution {
                 $nums[$i] = $nums[$j];
             }
         }
-        return $i + 1;a
+        return $i + 1;
     }
 }
